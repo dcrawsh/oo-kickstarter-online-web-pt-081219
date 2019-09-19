@@ -12,7 +12,7 @@ end
 
 def add_backer(backer)
 self.backers << backer
-  
+backer. 
 end 
 
 
