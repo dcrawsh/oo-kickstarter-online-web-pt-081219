@@ -13,6 +13,7 @@ end
 
 def back_project(project)
 self.backed_projects << project
+project.
 end 
 
 end 
